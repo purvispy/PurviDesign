@@ -1,4 +1,3 @@
-<html>
 <!-- saved from url=(0025)https://www.purvi.design/ -->
 <html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" class="yui3-js-enabled js flexbox canvas canvastext webgl no-touch hashchange history draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms no-csstransforms3d csstransitions video audio svg inlinesvg svgclippaths wf-proximanova-n3-active wf-futurapt-n7-active wf-futurapt-n4-active wf-futurapt-n3-active wf-proximanova-n1-active wf-proximanova-n4-active wf-proximanova-n7-active wf-proximanova-i7-active wf-futurapt-i4-active wf-futurapt-i7-active wf-proximanova-i3-active wf-futurapt-i3-active wf-active" id="yui_3_17_2_1_1740881540756_74"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -453,4 +452,4 @@
 
 
 
-<div id="yui3-css-stamp" style="position: absolute !important; visibility: hidden !important"></div></body></html>
+<div id="yui3-css-stamp" style="position: absolute !important; visibility: hidden !important"></div>
