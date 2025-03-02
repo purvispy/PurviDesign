@@ -56,7 +56,7 @@
             
               <li class="page-collection active-link">
                 
-                  <a href="https://www.purvi.design/">xxx About</a>
+                  <a href="https://purvispy.github.io/PurviDesign/">xxx About</a>
                 
                 
               </li>
@@ -67,7 +67,7 @@
             
               <li class="index-collection">
                 
-                  <a href="https://www.purvi.design/create">Create</a>
+                  <a href="https://purvispy.github.io/PurviDesign/create">Create</a>
                 
               </li>
             
@@ -77,7 +77,7 @@
             
               <li class="blog-collection">
                 
-                  <a href="https://www.purvi.design/write">Write</a>
+                  <a href="https://purvispy.github.io/PurviDesign/write">Write</a>
                 
                 
               </li>
@@ -88,7 +88,7 @@
             
               <li class="page-collection">
                 
-                  <a href="https://www.purvi.design/intergen">intergen</a>
+                  <a href="https://purvispy.github.io/PurviDesign/intergen">intergen</a>
                 
                 
               </li>
@@ -99,7 +99,7 @@
             
               <li class="page-collection">
                 
-                  <a href="https://www.purvi.design/contact">Contact</a>
+                  <a href="https://purvispy.github.io/PurviDesign/contact">Contact</a>
                 
                 
               </li>
@@ -148,7 +148,7 @@
         
 
           
-            <a href="https://www.purvi.design/">About</a>
+            <a href="https://purvispy.github.io/PurviDesign/">About</a>
           
 
           
@@ -164,7 +164,7 @@
 
         
           
-            <a href="https://www.purvi.design/create">Create</a>
+            <a href="https://purvispy.github.io/PurviDesign/create">Create</a>
           
         
 
@@ -177,7 +177,7 @@
         
 
           
-            <a href="https://www.purvi.design/write">Write</a>
+            <a href="https://purvispy.github.io/PurviDesign/write">Write</a>
           
 
           
@@ -194,7 +194,7 @@
         
 
           
-            <a href="https://www.purvi.design/intergen">intergen</a>
+            <a href="https://purvispy.github.io/PurviDesign/intergen">intergen</a>
           
 
           
@@ -211,7 +211,7 @@
         
 
           
-            <a href="https://www.purvi.design/contact">Contact</a>
+            <a href="https://purvispy.github.io/PurviDesign/contact">Contact</a>
           
 
           
